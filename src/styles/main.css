@@ -127,8 +127,8 @@ header .column span {
     display: none;
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     .container {
         transform: rotate(90deg);
     }
-}
+} */
